@@ -2,7 +2,6 @@
 # Extractive Summarization of Long Documents by Combining Global and Local Context, EMNLP 2019
 
 ## Overview
-saas
   - proposing a novel neural singledocument extractive summarization model for
     long documents, incorporating both the global
     context of the whole document and the local
