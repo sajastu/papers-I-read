@@ -62,3 +62,16 @@ from the document.
 the document and a ‘selection network’ to extract
 sentences based on their representations.
 - 
+
+<hr/>
+
+## Citation
+
+``` 
+@inproceedings{Chen2018FastAS,
+  title={Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting},
+  author={Yen-Chun Chen and Mohit Bansal},
+  booktitle={ACL},
+  year={2018}
+}
+```
