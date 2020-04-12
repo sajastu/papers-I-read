@@ -61,6 +61,7 @@ from the document.
 - a hierarchical neural model to learn the sentence representations of
 the document and a ‘selection network’ to extract
 sentences based on their representations.
+- For learning each sentence representations, CNN is used. Then, LSTM-RNNs are utilized to further incorporate global context of the document and capture the long-range semantic dependency between sentences.
 - 
 
 <hr/>
