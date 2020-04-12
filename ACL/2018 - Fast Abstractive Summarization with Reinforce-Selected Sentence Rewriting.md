@@ -1,8 +1,8 @@
-# Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting (ACL, 2018)
-### Authors: Yen-Chun Chen and Mohit Bansal (UNC Chapel Hill)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/scibert-pretrained-contextualized-embeddings/named-entity-recognition-bc5cdr)](https://arxiv.org/pdf/1805.11080.pdf)  
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/scibert-pretrained-contextualized-embeddings/named-entity-recognition-bc5cdr)](https://github.com/ChenRocks/fast_abs_rl)  
 
+# Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting (ACL, 2018)
+### Authors: Yen-Chun Chen and Mohit Bansal (UNC Chapel Hill)
 - an accurate and
 fast summarization model that first selects
 salient sentences and then rewrites them
