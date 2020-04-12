@@ -1,4 +1,4 @@
-## Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting (ACL, 2018)
+# Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting (ACL, 2018)
 ##### Authors: Yen-Chun Chen and Mohit Bansal (UNC Chapel Hill)
 
 - an accurate and
@@ -23,7 +23,7 @@ scores than a state-of-the-art model
 
 ------
 
-**Introduction**
+## Introduction
   - Abstractive models can be more concise
 by performing generation from scratch, but they
 suffer from slow and inaccurate encoding of very
@@ -50,7 +50,7 @@ simple automatic matching criteria
 
   - This also avoids almost all redundancy issues because the model has already chosen non-redundant salient sentences to abstractively summarize
   
-   - ***Contributions***
+   - *Contributions*
      1.  we propose a novel sentence-level RL technique
 for the well-known task of abstractive summarization, effectively utilizing the word-then-sentence
 hierarchical structure without annotated matching sentence-pairs between the document and ground
