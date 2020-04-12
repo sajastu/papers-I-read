@@ -1,5 +1,8 @@
 # Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting (ACL, 2018)
 ### Authors: Yen-Chun Chen and Mohit Bansal (UNC Chapel Hill)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/scibert-pretrained-contextualized-embeddings/named-entity-recognition-bc5cdr)](https://arxiv.org/pdf/1805.11080.pdf)  
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/scibert-pretrained-contextualized-embeddings/named-entity-recognition-bc5cdr)](https://github.com/ChenRocks/fast_abs_rl)  
+
 - an accurate and
 fast summarization model that first selects
 salient sentences and then rewrites them
@@ -55,4 +58,7 @@ consists of these two submodules, the extractor
 agent and the abstractor network
 - *Extractor Agent*: can be thought of as extracting salient sentences
 from the document.
+- a hierarchical neural model to learn the sentence representations of
+the document and a ‘selection network’ to extract
+sentences based on their representations.
 - 
