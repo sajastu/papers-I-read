@@ -33,7 +33,7 @@ FewRel and CSID datasets.
   - Faster and more extensible models.
   
 ## Method
-The methodology is composed of 3 main parts:
+- The methodology is composed of 3 main parts:
   - *Instance Encoder*
   - *Prototypical Network*
   - *Hierachical Attention (HA)*
