@@ -60,10 +60,10 @@ FewRel and CSID datasets.
   <p align="center"><img src="https://github.com/sajastu/papers-I-read/blob/master/EMNLP/pictures/HAPN-1.png" width="550"></p>
  
 - Same features extracted by feature-level attention (CNN) have different weights for different classes.
-<p align="center"><img src="https://github.com/sajastu/papers-I-read/blob/master/EMNLP/pictures/HAPN-2.png" width="300"></p>
+<p align="center"><img src="https://github.com/sajastu/papers-I-read/blob/master/EMNLP/pictures/HAPN-2.png" width="450"></p>
     
 - Acurracy with increasing number of shots (instances):    
-<p align="center"><img src="https://github.com/sajastu/papers-I-read/blob/master/EMNLP/pictures/HAPN-4.png" width="300"></p>
+<p align="center"><img src="https://github.com/sajastu/papers-I-read/blob/master/EMNLP/pictures/HAPN-4.png" width="450"></p>
 
 - Training convergence time:    
-<p align="center"><img src="https://github.com/sajastu/papers-I-read/blob/master/EMNLP/pictures/HAPN-5.png" width="300"></p>
+<p align="center"><img src="https://github.com/sajastu/papers-I-read/blob/master/EMNLP/pictures/HAPN-5.png" width="450"></p>
