@@ -56,14 +56,14 @@ FewRel and CSID datasets.
   
     <p align="center"><img src="https://github.com/sajastu/papers-I-read/blob/master/EMNLP/pictures/HAPN-3.png" width="350"></p>
     
-  - Hierachical Attention effect: 
+  - Hierachical Attention effect; Although "mother" and "child" class are similar to each other, but the HAPN model can effectively classify the query instance to "mother" class.
   <p align="center"><img src="https://github.com/sajastu/papers-I-read/blob/master/EMNLP/pictures/HAPN-1.png" width="550"></p>
-  
-  - Although "mother" and "child" class are similar to each other, but the HAPN model can effectively classify the query instance to "mother" class.
-      <p align="center"><img src="https://github.com/sajastu/papers-I-read/blob/master/EMNLP/pictures/HAPN-2.png" width="300"></p>
-      - Same features extracted by feature-level attention (CNN) have different weights for different classes.
+ 
+- Same features extracted by feature-level attention (CNN) have different weights for different classes.
+<p align="center"><img src="https://github.com/sajastu/papers-I-read/blob/master/EMNLP/pictures/HAPN-2.png" width="300"></p>
     
-    
-<!-- <p align="center"><img src="https://github.com/sajastu/papers-I-read/blob/master/EMNLP/pictures/HAPN-4.png" width="300"></p> -->
-<!-- <p align="center"><img src="https://github.com/sajastu/papers-I-read/blob/master/EMNLP/pictures/HAPN-5.png" width="300"></p> -->
-     
+- Acurracy with increasing number of shots (instances):    
+<p align="center"><img src="https://github.com/sajastu/papers-I-read/blob/master/EMNLP/pictures/HAPN-4.png" width="300"></p>
+
+- Training convergence time:    
+<p align="center"><img src="https://github.com/sajastu/papers-I-read/blob/master/EMNLP/pictures/HAPN-5.png" width="300"></p>
